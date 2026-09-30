@@ -1,10 +1,10 @@
-1. lámpara - https://dle.rae.es/l%C3%A1mpara
-2. cañería - https://dle.rae.es/ca%C3%B1er%C3%ADa
-3. ordenador - https://dle.rae.es/ordenador
-4. biblioteca - https://dle.rae.es/biblioteca
-5. montaña - https://dle.rae.es/monta%C3%B1a
-6. ventana - https://dle.rae.es/ventana
-7. camino - https://dle.rae.es/camino
-8. estudiante - https://dle.rae.es/estudiante
-9. programación - https://dle.rae.es/programaci%C3%B3n
-10. universidad - https://dle.rae.es/universidad
+lámpara - https://dle.rae.es/l%C3%A1mpara
+cañería - https://dle.rae.es/ca%C3%B1er%C3%ADa
+ordenador - https://dle.rae.es/ordenador
+biblioteca - https://dle.rae.es/biblioteca
+montaña - https://dle.rae.es/monta%C3%B1a
+ventana - https://dle.rae.es/ventana
+camino - https://dle.rae.es/camino
+estudiante - https://dle.rae.es/estudiante
+programación - https://dle.rae.es/programaci%C3%B3n
+universidad - https://dle.rae.es/universidad
