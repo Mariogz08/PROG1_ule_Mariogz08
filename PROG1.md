@@ -1,0 +1,10 @@
+abecedario - https://dle.rae.es/abecedario
+brazo - https://dle.rae.es/brazo
+genio - https://dle.rae.es/genio
+hemisferio - https://dle.rae.es/hemisferio
+lotería - https://dle.rae.es/loter%C3%ADa
+palmera - https://dle.rae.es/palmera
+recorrido - https://dle.rae.es/recorrido
+valor - https://dle.rae.es/valor
+verbal - https://dle.rae.es/verbal
+asomar - https://dle.rae.es/asomar
